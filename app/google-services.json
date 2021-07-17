@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994487192734",
+    "project_id": "pizzaiolo-app",
+    "storage_bucket": "pizzaiolo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994487192734:android:220a1bee73b3b49ee87f8f",
+        "android_client_info": {
+          "package_name": "com.devthiagofurtado.pizzaioloapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994487192734-6icpsp6c3f3bvr98p7r6dt6nb42ko16f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devthiagofurtado.pizzaioloapp",
+            "certificate_hash": "2b8b04fcbfbcc1119aa4dd003b339c06725168d8"
+          }
+        },
+        {
+          "client_id": "994487192734-9c0n3l04vtvhcbh8ic3fhafrc4jaqtst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWShxLTYYfpq_ZX8TOkcjcBfwOOzbqx6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994487192734-9c0n3l04vtvhcbh8ic3fhafrc4jaqtst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
